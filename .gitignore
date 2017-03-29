@@ -1,3 +1,6 @@
+#Project Specific
+edited_event_printouts/
+
 # Object files
 *.o
 *.ko
