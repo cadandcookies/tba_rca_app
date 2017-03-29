@@ -1,5 +1,6 @@
 #Project Specific
 edited_event_printouts/
+log.txt
 
 # Object files
 *.o
